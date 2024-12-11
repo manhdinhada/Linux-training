@@ -1,4 +1,0 @@
-helo, my name is Manh
-This is code c program
-nice to meet you!!
-
