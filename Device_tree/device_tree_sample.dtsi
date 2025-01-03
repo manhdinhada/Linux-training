@@ -1,0 +1,18 @@
+/ {
+    device1 {
+        compatible = "myvendor,device1";
+        buffer_size = <100>; 
+        id = <1>;
+        permission = "rw";
+        status = "okay";
+    };
+
+    device2 {
+        compatible = "myvendor,device2";
+        buffer_size = <100>; 
+        id = <2>;
+        permission = "rw";
+        status = "okay";
+    };
+
+};
